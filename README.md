@@ -41,9 +41,3 @@
 <p>
   <img src="https://streak-stats.demolab.com/?user=nabilanajnin" />
 </p>
-### Featured Projects
-
-- 🛍️ **Consumer Shopping Behavior Analysis**: EDA with Python, pandas, Matplotlib and Seaborn
-- 🚕 **Taxi Fare Analysis and Prediction**: XGBoost model with 97.13% best accuracy
-- ❤️ **Heart Failure Prognosis (Thesis)**: explainable ML with SHAP and a Streamlit dashboard
-- 🌍 **Website Carbon Footprint Checker**: Streamlit app with a 7-day emission summary
