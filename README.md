@@ -4,9 +4,6 @@
   A passionate 🎓 Data Analyst | 📊 SQL, Python, Power BI | 🤖 Machine Learning Enthusiast
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nabilanajnin&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
 
 - 🎓 CSE graduate (Data Science major) from East West University, CGPA 3.45/4.00
 - 🔭 I'm currently looking for entry-level roles in data analysis, reporting and MIS
