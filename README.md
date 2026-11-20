@@ -31,13 +31,4 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 
-### GitHub Stats
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nabilanajnin&show_icons=true&theme=default" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilanajnin&layout=compact" />
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com/?user=nabilanajnin" />
-</p>
